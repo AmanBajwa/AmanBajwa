@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1onBQePas7asNzIPju6hZYMXpUUbteD2L" width="840" height="200" allow="autoplay">
+<img src="https://drive.google.com/uc?export=view&id=1onBQePas7asNzIPju6hZYMXpUUbteD2L" width="840" height="300" allow="autoplay">
 
 <h1 align="center">Hi 👋, I'm Aman Irshad.</h1>
 <h3 align="center">A Data Specialist who believes in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcomes.</h3>
