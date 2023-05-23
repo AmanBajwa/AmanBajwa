@@ -18,9 +18,9 @@
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python (Numpy, Pandas ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch) |
-| DataBase | SQL, Teradata, Oracle |
+| DataBase | SQL, Teradata, Oracle, PostgreSQL |
 | Visualization | Tableau |
-| Tools/ IDE | PyCharm, Jupyter Notebook, Colab |
+| Tools/ IDE | PyCharm, Jupyter Notebook, Colab, Redash, SQLDeveloper|
 | Machine Learning | EDA, Regression (Linear/Logistic), SVM, Decision Trees, XGBoost, Naive Bayes, Boosting/Bagging, Ensemble Technqiues, Up/down sampling, Hyperparamter Tuning |
 | Deep Learning | Neural Networks, Computer Vision, Transfer learning |
 | Version control | GIT |
