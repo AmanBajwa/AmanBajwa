@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/file/d/1onBQePas7asNzIPju6hZYMXpUUbteD2L/view?usp=share_link" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Aman Irshad.</h1>
-<h3 align="center">A Data Specialist who belives in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcome.</h3>
+<h3 align="center">A Data Specialist who believes in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcomes.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ***Insight's about me:*** 
@@ -20,7 +20,6 @@
 | Programming | Python (Numpy, Pandas ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch) |
 | DataBase | SQL, Teradata, Oracle, PostgreSQL |
 | Visualization | Tableau |
-| Tools/ IDE | PyCharm, Jupyter Notebook, Colab, Redash, SQLDeveloper|
-| Machine Learning | EDA, Regression (Linear/Logistic), SVM, Decision Trees, XGBoost, Naive Bayes, Boosting/Bagging, Ensemble Technqiues, Up/down sampling, Hyperparamter Tuning |
-| Deep Learning | Neural Networks, Computer Vision, Transfer learning |
+| Tools/ IDE | PyCharm, Jupyter Notebook, Colab, Redash, SQLDeveloper, Hue|
+| Machine Learning/DS knowledge | EDA, Descriptive Analytics, Predictive Analytics, Prescriptive Analytics, Statistical Data Analysis, Data Visualization, Time Series Analysis/Forecasting, Convolutional Neural Networks, Supervised and Unsupervised Learning, Classification, Clustering, Regression. Boosting/Bagging, Ensemble Technqiues, Up/down sampling, Hyperparamter Tuning |
 | Version control | GIT |
