@@ -4,10 +4,10 @@
 <h3 align="center">A Data Specialist who believes in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcomes.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-***Insight's about me:*** 
+***Insights about me:*** 
 
 - 🔭 I’m currently working in Careem (subsidairy of Uber) as Senior Supply Analyst.  
-- 🌱 I love Data and everything related to Data.
+- 🌱 I love data and everything related to data.
 - 👯 Always excited to collaborate on exciting ML/DS projects.
 - 💬 Ask me about anything on Data Science/Books/Travelling.
 - ⚡ Fun fact: I love reading books. My faorite book now-a-days is "Eleanor oliphant is completely fine".
