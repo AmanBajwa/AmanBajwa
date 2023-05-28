@@ -4,7 +4,7 @@
 <h3 align="center">A Data Specialist who believes in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcomes.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-***Insights about me:*** 
+***About me:*** 
 
 - 🔭 I’m currently working in Careem (subsidairy of Uber) as Senior Supply Analyst.  
 - 🌱 I love data and everything related to data.
