@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aman Irshad.</h1>
 <h3 align="center">A Data Specialist who believes in the power of Data, loves crunching numbers and extracting valuable insights combined with actionable outcomes.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-![](https://komarev.com/ghpvc/?username=amanbajwa&label=PROFILE+VIEWS)
 
 ***About me:*** 
 
@@ -25,3 +24,20 @@
 | Tools/ IDE | PyCharm, Jupyter Notebook, Colab, Redash, SQLDeveloper, Hue|
 | Machine Learning/DS knowledge | EDA, Descriptive Analytics, Predictive Analytics, Prescriptive Analytics, Statistical Data Analysis, Data Visualization, Time Series Analysis/Forecasting, Convolutional Neural Networks, Supervised and Unsupervised Learning, Classification, Clustering, Regression. Boosting/Bagging, Ensemble Technqiues, Up/down sampling, Hyperparamter Tuning |
 | Version control | GIT |
+
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanbajwa&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbajwa&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanbajwa&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajwa&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
